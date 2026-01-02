@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\\u8EDF\u5DE5\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A973EA46-2BB8-4745-B9FE-10A09E222FC0}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
-              "ToolTip": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Program.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.Designer.cs",
-              "ToolTip": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Form1.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.Designer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,12 +73,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sam93\\source_code\\\u671F\u4E2D\u4F5C\u696D\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
               "ToolTip": "D:\\\u8EDF\u5DE5\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T05:38:50.573Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1056,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
